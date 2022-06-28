@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "610664069857",
+    "project_id": "look4lokal-74e89",
+    "storage_bucket": "look4lokal-74e89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610664069857:android:6ba577e6ecf9681c1c55a0",
+        "android_client_info": {
+          "package_name": "com.ph.look4lokal.cx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610664069857-9pqe8521du7t42q291qk519svq81aseb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ph.look4lokal.cx",
+            "certificate_hash": "a32c6ac8509371c9ce93c77462929f2cf0ba7003"
+          }
+        },
+        {
+          "client_id": "610664069857-qo6ptojt04fmmk85gapggejntost14qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg70QIsMH3EqIuo6eU9ljFZv0MYcPsZHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610664069857-qo6ptojt04fmmk85gapggejntost14qd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610664069857-u6neletqo4lejm7r02oq85b7kjsl2v9r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ph.look4lokal.cx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610664069857:android:d9c0b803b3c302c01c55a0",
+        "android_client_info": {
+          "package_name": "com.ph.look4lokal.prov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610664069857-qomnd8fassrj3u30d7qvp0gktjcosr6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ph.look4lokal.prov",
+            "certificate_hash": "a32c6ac8509371c9ce93c77462929f2cf0ba7003"
+          }
+        },
+        {
+          "client_id": "610664069857-qo6ptojt04fmmk85gapggejntost14qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg70QIsMH3EqIuo6eU9ljFZv0MYcPsZHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610664069857-qo6ptojt04fmmk85gapggejntost14qd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610664069857-u6neletqo4lejm7r02oq85b7kjsl2v9r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ph.look4lokal.cx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
