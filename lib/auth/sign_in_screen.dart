@@ -313,25 +313,6 @@ class _SignInScreenState extends State<SignInScreen> {
                 padding: EdgeInsets.all(16),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    _buildTopWidget(),
-                    _buildFormWidget(),
-                    _buildForgotRememberWidget(),
-                    _buildButtonWidget(),
-                    16.height,
-                    if (isIqonicProduct)
-                      UserDemoModeScreen(
-                        onChanged: (email, password) {
-                          if (email.isNotEmpty && password.isNotEmpty) {
-                            emailCont.text = email;
-                            passwordCont.text = password;
-                          } else {
-                            emailCont.clear();
-                            passwordCont.clear();
-                          }
-                        },
-                      ),
-                  ],
                 ),
               ),
             ),
